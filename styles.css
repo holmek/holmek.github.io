@@ -12,7 +12,7 @@ body {
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Sørg for at margin og padding inkluderes i elementets samlede bredde/højde */
+    box-sizing: border-box;
 }
 
 header, h1, p, footer {
