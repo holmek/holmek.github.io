@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Compiled files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
