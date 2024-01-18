@@ -1,0 +1,12 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Emil Holmgaard Kristoffersen",
+    "jobTitle": "Developer",
+    "url": "https://holmdev.io",
+    "sameAs": [
+        "https://github.com/holmek",
+        "https://www.linkedin.com/in/emil-holmgaard-kristoffersen-13638729b",
+        "https://vimeo.com/user210450036"
+    ]
+}
