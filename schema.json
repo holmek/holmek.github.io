@@ -3,8 +3,28 @@
     "@type": "Person",
     "name": "Emil Holmgaard Kristoffersen",
     "jobTitle": "Developer",
-    "url": "https://holmdev.io",
+    "telephone": "+45 20864535",
+    "birthDate": "2001-02-08",
+    "memberOf": [
+        {
+            "@type": "EducationalOrganization",
+            "name": "Copenhagen School of Technology and Design",
+            "url": "https://kea.dk/en/"
+        }
+    ],
+    "alumniOf": [
+        {
+            "@type": "CollegeOrUniversity",
+            "name": "KEA - Copenhagen School of Design and Technology",
+            "url": "https://kea.dk/en/"
+        }
+    ],
+    "email": "holm@holmdev.io",
+    "skills": "JavaScript, Python, HTML, CSS, etc.",
+    "description": "Developer currently studying"
+    "knowsLanguage": ["English", "Danish", "etc."],
     "sameAs": [
+        "https://holmdev.io",
         "https://github.com/holmek",
         "https://www.linkedin.com/in/emil-holmgaard-kristoffersen-13638729b",
         "https://vimeo.com/user210450036"
