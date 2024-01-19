@@ -1,11 +1,11 @@
 # holmdev
 
-Welcome to the holmdev GitHub repository! This is the source code for my personal website.
+Welcome to the holmdev GitHub repository. This is the source code for my personal website.
 
 ## Contact
 Feel free to reach out to me at [holm@holmdev.io](mailto:holm@holmdev.io).
 
-## Social Media
+## Socials
 Connect with me on:
 - [GitHub](https://github.com/holmek)
 - [LinkedIn](https://www.linkedin.com/in/emil-holmgaard-kristoffersen-13638729b)
